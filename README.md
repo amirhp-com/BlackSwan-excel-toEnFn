@@ -1,7 +1,7 @@
 # BlackSwan Excel toEn Function
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
-[![fa](https://img.shields.io/badge/lang-fa-green.svg)](README.fa-IR.md)
-![fa](https://img.shields.io/badge/version-1.0.0-red.svg)
+[![fa](https://img.shields.io/badge/lang-fa-red.svg)](README.fa-IR.md)
+[![ver](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/amirhp-com/BlackSwan-excel-toEnFn)
 
 Welcome to the **BlackSwan Excel toEn Function**! This Excel Add-In is designed to help you seamlessly convert Persian numerals in your Excel sheets into English numerals. If you frequently work with data containing Persian numbers and need a reliable tool to make conversions, this Add-In is the solution.
 
@@ -19,7 +19,7 @@ To start using the BlackSwan Excel toEn Function, follow these steps:
 
 ### 1. Download the Add-In
 
-- Download the `.xlam` file from release.
+- Download the `.xlam` file from [release](https://github.com/amirhp-com/BlackSwan-excel-toEnFn/releases/latest).
 
 ### 2. Install the Add-In
 

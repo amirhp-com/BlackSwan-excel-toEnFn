@@ -1,9 +1,11 @@
 # BlackSwan Excel toEn Function
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
-[![fa](https://img.shields.io/badge/lang-fa-green.svg)](README.fa-IR.md)
-![fa](https://img.shields.io/badge/version-1.0.0-red.svg)
+[![fa](https://img.shields.io/badge/lang-fa-red.svg)](README.fa-IR.md)
+[![ver](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/amirhp-com/BlackSwan-excel-toEnFn)
 
 این افزونه اکسل برای کمک به شما در تبدیل آسان اعداد فارسی در شیت‌های اکسل به اعداد انگلیسی طراحی شده است. اگر به طور مرتب با داده‌هایی که شامل اعداد فارسی هستند کار می‌کنید و به یک ابزار قابل اعتماد برای تبدیل آنها نیاز دارید، این افزونه برای شما مناسب است.
+
+![help](help.jpg)
 
 ## ویژگی‌ها
 
@@ -17,7 +19,7 @@
 
 ### 1. دانلود افزونه
 
-- فایل `.xlam` را از بخش release دانلود کنید.
+- فایل `.xlam` را از بخش [release](https://github.com/amirhp-com/BlackSwan-excel-toEnFn/releases/latest) دانلود کنید.
 
 ### 2. نصب افزونه
 
